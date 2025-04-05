@@ -1,8 +1,8 @@
-# StudyNotion - Educational Platform
+# CreaNova - Educational Platform
 
-[Live Demo](https://studynotion-hosting-orcin.vercel.app/)
+[Live Demo]()
 
-StudyNotion is a dynamic educational platform where students can purchase courses, and instructors can create and sell courses. Built with a full-stack architecture, the platform provides a seamless user experience for both learning and teaching.
+CreaNova is a dynamic educational platform where students can purchase courses, and instructors can create and sell courses. Built with a full-stack architecture, the platform provides a seamless user experience for both learning and teaching.
 
 ## Features
 
@@ -42,8 +42,3 @@ StudyNotion is a dynamic educational platform where students can purchase course
 - **Vercel**: Frontend hosting for fast delivery.
 - **Backend Hosting**: (Add specific details if available)
 
----
-**Clone the repository**:
-   ```bash
-   git clone https://github.com/mahendrajangid2583/Studynotion-Hosting.git
-   cd Studynotion-Hosting
