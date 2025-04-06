@@ -1,6 +1,6 @@
 # CreaNova - Educational Platform
 
-[Live Demo]([https://crea-nova-rouge.vercel.app/)
+[Live Demo]([https://crea-nova-rouge.vercel.app/])
 
 CreaNova is a dynamic educational platform where students can purchase courses, and instructors can create and sell courses. Built with a full-stack architecture, the platform provides a seamless user experience for both learning and teaching.
 
