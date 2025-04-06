@@ -92,7 +92,7 @@ function Home() {
                 
             </div>
             {/* code section 2 */}
-            <div>
+            {/* <div>
                 <CodeBlocks
                   position={"lg:flex-row-reverse"}
                   heading={
@@ -121,7 +121,7 @@ function Home() {
                   codeColor={"text-yellow-25"}           
                 />
                 
-            </div>
+            </div> */}
 
             <ExploreMore />
     

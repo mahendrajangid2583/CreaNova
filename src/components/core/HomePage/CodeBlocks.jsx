@@ -3,6 +3,7 @@ import CTAButton from './Button'
 import HighlightText from './HighlightText'
 import { TiArrowRightThick } from "react-icons/ti";
 import { TypeAnimation } from 'react-type-animation';
+import img from "./IMG.webp";
 
 const CodeBlocks = ({
     position, heading, subheading, ctabtn1, ctabtn2, codeblock, backgroundGradient, codeColor
@@ -39,31 +40,9 @@ const CodeBlocks = ({
            
            <div className=' w-full bg-[#0E1A2D]/[0.24] p-4 flex'>
            
-                
-
-                <div className=' text-richblack-300 text-[14px] font-[700]'>
-                    <p>1</p>
-                    <p>2</p>
-                    <p>3</p>
-                    <p>4</p>
-                    <p>5</p>
-                    <p>6</p>
-                    <p>7</p>
-                    <p>8</p>
-                    <p>9</p>
-                    <p>10</p>
-                    <p>11</p>
-                </div>
 
                 <div className=' flex flex-col text-richblack-50 text-[14px] font-[700]'>
-                    <TypeAnimation 
-                        sequence={[codeblock,5000,""]}
-                        style={{ whiteSpace: 'pre-line', height: '195px', display: 'block' }}
-                        repeat={Infinity}
-                        cursor={true}
-                        omitDeletionAnimation={true}
-                        className={`${codeColor}`}
-                    />
+                    <img src={img}/>
                 </div>
            </div>
        </div>
